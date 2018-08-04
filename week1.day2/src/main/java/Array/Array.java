@@ -16,7 +16,7 @@ public class Array {
 		index = index-1;
 		System.out.println(friendsName[index] + " who is with the age " + age[index] + " is scored marks in");
 		System.out.println(" Grade in 1st subject is: " + grade[index][0]);//shanthi
-		System.out.println(" Grade in 2nd subject is: " + grade[index][1]);
+		System.out.println(" Grade in 2nd subject is: " + grade[index][1]);//kingsly
 		System.out.println(" Grade in 3rd subject is: " + grade[index][2]);
 		System.out.println(" Grade in 4th subject is: " + grade[index][3]);
 		//System.out.println(" Grade in 5th subject is: " + grade[index][4]);
